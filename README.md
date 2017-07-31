@@ -1,2 +1,2 @@
 # STUFF-UniComp
-A Stuff full of website to help students of ECE branch in B.E
+A website full of stuff to help students of ECE branch in B.E
